@@ -1,3 +1,3 @@
-# react-mini-template
+# cypress-test
 
-React（SPA）最小構成テンプレート
+Cypressの素振り
